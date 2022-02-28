@@ -1,3 +1,3 @@
 #Ignore platformio stuff
-object-firmware/esp8266/ai-thinker/.pio
-object-firmware/esp8266/ai-thinker/.vscode
+#object-firmware/esp8266/ai-thinker/.pio
+#object-firmware/esp8266/ai-thinker/.vscode
